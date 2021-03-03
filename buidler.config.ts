@@ -7,7 +7,7 @@ usePlugin("@symfoni/buidler-react");
 
 const config: BuidlerConfig = {
   solc: {
-    version: "0.7.0",
+    version: "0.8.1",
   },
   networks: {
     buidlerevm: {
